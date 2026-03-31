@@ -50,6 +50,8 @@ Index Performance
  Successfully captures major drought years
  High payouts observed in years associated with El Niño events
  Strong spatial coherence of drought signals
+Example Output
+![Frequency Map P90](results/Mapa_Frecuencia_P90_Puno_Final.png)
 
 Actuarial Metrics
 Metric	                      P90	     P95
